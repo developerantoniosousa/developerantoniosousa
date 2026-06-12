@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Antonio Sousa 👋
 
-<!--
-**developerantoniosousa/developerantoniosousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Engineer | React Native Specialist
 
-Here are some ideas to get you started:
+I am a Software Engineer with over 8 years of experience in the tech industry. Since 2018, I have specialized in the **React ecosystem**, with a strong focus on building high-performance, scalable, and user-centric mobile applications using **React Native**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+- **Mobile:** React Native, Expo, Expo Router
+- **Frontend:** React.js, TypeScript, JavaScript (ES6+)
+- **State Management & Data:** Redux, Redux Saga, Context API, MobX
+- **Testing:** Jest, React Native Testing Library
+- **Backend & Tools:** Node.js, SQL (PostgreSQL, SQLite), Sequelize, MongoDB, Mongoose
+
+---
+
+### 🚀 Featured Projects
+
+#### [Target](https://github.com/developerantoniosousa/target)
+A financial goal tracking app built with **Expo Router** and **SQLite**. It demonstrates clean architecture, local persistence, and modern mobile UI patterns.
+`TypeScript` `React Native` `Expo` `SQLite`
+
+#### [Gympoint](https://github.com/developerantoniosousa/gympoint-mobile)
+A complete management system for gyms, including a mobile app for students and a web/server dashboard.
+`React Native` `Node.js` `JavaScript`
+
+---
+
+### 📫 How to reach me
+
+- **LinkedIn:** [linkedin.com/in/developerantoniosousa](https://www.linkedin.com/in/developerantoniosousa/)
+- **Email:** developerantoniosousa@gmail.com
+- **Location:** Brazil (Available for remote work worldwide 🌍)
+
+---
+*“Building the future of mobile, one commit at a time.”*
