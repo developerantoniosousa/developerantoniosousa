@@ -1,6 +1,6 @@
 # Hi there, I'm Antonio Sousa 👋
 
-### Frontend Engineer | React Native Specialist
+### React Native Developer
 
 I am a Software Engineer with over 8 years of experience in the tech industry. Since 2018, I have specialized in the **React ecosystem**, with a strong focus on building high-performance, scalable, and user-centric mobile applications using **React Native**.
 
@@ -8,10 +8,10 @@ I am a Software Engineer with over 8 years of experience in the tech industry. S
 
 ### 🛠 Tech Stack
 
-- **Mobile:** React Native, Expo, Expo Router
+- **Mobile:** React Native, React Navigation, Expo, Expo Router
 - **Frontend:** React.js, TypeScript, JavaScript (ES6+)
-- **State Management & Data:** Redux, Redux Saga, Context API, MobX
-- **Testing:** Jest, React Native Testing Library
+- **State Management & Data:** Redux, Redux Saga, Context API
+- **Testing:** Jest, React Native Testing Library, Storybook
 - **Backend & Tools:** Node.js, SQL (PostgreSQL, SQLite), Sequelize, MongoDB, Mongoose
 
 ---
