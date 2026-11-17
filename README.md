@@ -1,8 +1,8 @@
 # Hi there, I'm Antonio Sousa 👋
 
-### React Native Developer
+### Senior Mobile Developer, React Native
 
-I am a Software Engineer with over 8 years of experience in the tech industry. Since 2018, I have specialized in the **React Native ecosystem**, with a strong focus on building high-performance, scalable, and user-centric cross-platform mobile apps.
+I am a Senior Mobile Developer, React Native with 7+ years of experience in the tech industry. Since 2018, I have specialized in the **React Native ecosystem**, with a strong focus on building scalable and user-centric cross-platform mobile apps.
 
 ---
 
@@ -31,8 +31,8 @@ A complete management system for gyms, including a mobile app for students and a
 ### 📫 How to reach me
 
 - **LinkedIn:** [linkedin.com/in/developerantoniosousa](https://www.linkedin.com/in/developerantoniosousa/)
-- **Email:** developerantoniosousa@gmail.com
-- **Location:** Brazil (Available for remote work worldwide 🌍)
+- **Email:** devantoniosousa@gmail.com
+- **Location:** Brazil (UTC-3) (Overlap availability with US Eastern and Central)
 
 ---
 *“Building the future of mobile, one commit at a time.”*
