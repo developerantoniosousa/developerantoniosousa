@@ -2,7 +2,7 @@
 
 ### Senior Mobile Developer, React Native
 
-I am a Senior Mobile Developer, React Native with 7+ years of experience in the tech industry. Since 2018, I have specialized in the **React Native ecosystem**, with a strong focus on building scalable and user-centric cross-platform mobile apps.
+I’m a Senior Mobile Developer specialized in React Native, with 7+ years of experience (since 2018) building scalable, user-centric cross-platform apps.
 
 ---
 
@@ -32,7 +32,7 @@ A complete management system for gyms, including a mobile app for students and a
 
 - **LinkedIn:** [linkedin.com/in/developerantoniosousa](https://www.linkedin.com/in/developerantoniosousa/)
 - **Email:** devantoniosousa@gmail.com
-- **Location:** Brazil (UTC-3) (Overlap availability with US Eastern and Central)
+- **Location:** Brazil (UTC-3, Overlap availability with US Eastern and Central)
 
 ---
 *“Building the future of mobile, one commit at a time.”*
