@@ -12,7 +12,6 @@ I’m a Senior Mobile Developer specialized in React Native, with 7+ years of ex
 - **Frontend:** React.js, TypeScript, JavaScript (ES6+)
 - **State Management & Data:** Redux, Redux Saga, Context API
 - **Testing:** Jest, React Native Testing Library, Storybook
-- **Backend & Tools:** Node.js, SQL (MySQL, PostgreSQL, SQLite), Sequelize, MongoDB, Mongoose
 
 ---
 
